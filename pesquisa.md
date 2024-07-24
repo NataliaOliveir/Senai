@@ -15,16 +15,15 @@
 ![alt text](d7b04738-bc60-48a8-bc99-d73a71ba998e.webp)
 
 *È um sistema gerenciador de banco de dados relacional de código aberto usado na maioria das aplicações gratuitas para gerir suas bases de dados. O MySQL utiliza a linguagem SQL (Structure Query Language – Linguagem de Consulta Estruturada), que é a linguagem mais popular para inserir, acessar e gerenciar o conteúdo armazenado num banco de dados.O MySQL serve para armazenar, organizar e recuperar informações de forma eficiente. Ele é utilizado em uma ampla variedade de aplicativos e cenários, como por exemplo: Desenvolvimento de aplicativos web — o MySQL é uma escolha popular para sites, blogs, lojas online e sistemas de gerenciamento de conteúdo (CMS)*
+## HTML
 
-![print 7-1](https://github.com/NataliaOliveir/Manual-de-instala-o-windows-2012/assets/170099920/7182b174-9d74-42c4-9d2e-77f8a7254a7a)
+*HTML (Linguagem de Marcação de HiperTexto) é o bloco de construção mais básico da web. Define o significado e a estrutura do conteúdo da web. Outras tecnologias além do HTML geralmente são usadas para descrever a aparência/apresentação (CSS) ou a funcionalidade/comportamento (JavaScript) de uma página da web.*
 
-## Agora para entrar no computador você deve:
-## 1. Criar um nome de usuário
-## 2. senha
-![print 8-1](https://github.com/NataliaOliveir/Manual-de-instala-o-windows-2012/assets/170099920/d8073f8e-fbf4-4782-b544-3266338527cd)
+## CSS
 
-## No teclado aperte em ctrl + Del 👇 e você sera levado para o seu user
-![imagem-1](https://github.com/NataliaOliveir/Manual-de-instala-o-windows-2012/assets/170099920/fbf416e7-6d07-4307-a718-abd08f546f56)
+*CSS é chamado de linguagem Cascading Style Sheet e é usado para estilizar elementos escritos em uma linguagem de marcação como HTML. O CSS separa o conteúdo da representação visual do site. Pense  na decoração da sua página. Utilizando o CSS é possível alterar a cor do texto e do fundo, fonte e espaçamento entre parágrafos. Também pode criar tabelas, usar variações de layouts, ajustar imagens para suas respectivas telas e assim por diante.*
 
-## Se o passo a passo a passo ser seguido corretamente voc~e sera levado para essa pagina 👇 
-![print 10-1](https://github.com/NataliaOliveir/Manual-de-instala-o-windows-2012/assets/170099920/62cb8425-04d9-4822-8445-f5aa467140a5)
+
+## javaScript
+  
+  *O JavaScript é uma linguagem de scripts, ou seja, de sequências de comandos. A linguagem permite que sejam adicionadas muitas funcionalidades às páginas web, fazendo com que elas fiquem mais interativas, úteis e atrativas para o usuário. Alguns exemplos de conteúdo dinâmico são os menus suspensos, os formulários, as galerias de fotos, os gráficos animados, entre outros.*
