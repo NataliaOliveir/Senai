@@ -1,6 +1,8 @@
 ## PESQUISA SOBRE SQL, Postman, Node js, MySQL, HTML, CSS, javaScript
 
 ## SQL
+![kisspng-microsoft-sql-server-mysql-database-logo-5b098c6ebad6d7 7316225815273524307653](https://github.com/user-attachments/assets/b3b3d16a-8333-46e6-a0c2-393c911be4ca)
+
  *Então, a Linguagem de Consulta Estruturada, ou SQL, é tipo uma linguagem de programação que a gente usa para guardar e processar informações em um banco de dados relacional. Um banco de dados relacional é aquele que organiza os dados em tabelas, com linhas e colunas que representam os diferentes atributos. E o legal é que você consegue fazer várias coisas com SQL, como armazenar, atualizar, remover e até pesquisar dados. Além disso, também dá pra usar SQL pra manter o banco de dados funcionando bem e otimizar a performance dele.*
 
 ## POSTMAN
